@@ -1,0 +1,46 @@
+{
+    "app": {
+        "title": "Arlei Ferreira Farnetani Junior"
+    },
+    "header": {
+        "name": "Arlei Ferreira Farnetani Junior",
+        "title": "Desenvolvedor",
+        "formation": "Sistemas de Informação e Direito",
+        "quick_bio": "Delphi, Python, PHP, JavaScript, Java",
+        "hobby": "Poker, Diablo3",
+        "linkedin": "https://www.linkedin.com/in/farnetani/",
+        "github": "https://github.com/farnetani"
+    },
+    "social": {
+        "twitter": "https://twitter.com/farnetani",
+        "facebook": "https://facebook.com/farnetanijr",
+        "instagram": "https://www.instagram.com/farnetanijr"
+    },
+    "about": {
+        "me": [
+            "Senior Software Developer e CEO da Farsoft Systems.",
+            "Desenvolvedor de software há mais de 29 anos (desde os 11 anos)."
+        ],
+        "skills": [
+            "Analista de sistemas de ERP",
+            "Desenvolvimento web com JavaScript (AngularJS, Angular, VueJS, Django)"
+        ],
+        "experiences": [
+            "Analise de sistemas Sênior Sistemas"
+        ],
+        "dev_tags": [
+            "Delphi",
+            "Mysql",
+            "PHP",
+            "Java",
+            "Laravel",
+            "JavaScript",
+            "AngularJS",
+            "VueJS",
+            "Python",
+            "Django",
+            "Devops"
+        ]
+    }
+    
+}
